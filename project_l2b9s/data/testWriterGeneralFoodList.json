@@ -1,0 +1,114 @@
+{"FoodList": [
+    {
+        "carbohydrates": 75,
+        "protein": 13,
+        "name": "Spaghetti",
+        "fat": 2,
+        "grams": 100
+    },
+    {
+        "carbohydrates": 70,
+        "protein": 7,
+        "name": "White Rice",
+        "fat": 1,
+        "grams": 250
+    },
+    {
+        "carbohydrates": 39,
+        "protein": 2,
+        "name": "Banana",
+        "fat": 1,
+        "grams": 170
+    },
+    {
+        "carbohydrates": 0,
+        "protein": 26,
+        "name": "Beef",
+        "fat": 17,
+        "grams": 100
+    },
+    {
+        "carbohydrates": 0,
+        "protein": 31,
+        "name": "Chicken Breast",
+        "fat": 4,
+        "grams": 100
+    },
+    {
+        "carbohydrates": 0,
+        "protein": 26,
+        "name": "Pork",
+        "fat": 14,
+        "grams": 100
+    },
+    {
+        "carbohydrates": 0,
+        "protein": 21,
+        "name": "Lamb",
+        "fat": 18,
+        "grams": 85
+    },
+    {
+        "carbohydrates": 1,
+        "protein": 13,
+        "name": "Egg",
+        "fat": 10,
+        "grams": 100
+    },
+    {
+        "carbohydrates": 0,
+        "protein": 44,
+        "name": "Fish",
+        "fat": 5,
+        "grams": 170
+    },
+    {
+        "carbohydrates": 0,
+        "protein": 50,
+        "name": "Salmon",
+        "fat": 28,
+        "grams": 227
+    },
+    {
+        "carbohydrates": 12,
+        "protein": 8,
+        "name": "Milk",
+        "fat": 5,
+        "grams": 244
+    },
+    {
+        "carbohydrates": 8,
+        "protein": 7,
+        "name": "Peanut Butter",
+        "fat": 16,
+        "grams": 32
+    },
+    {
+        "carbohydrates": 14,
+        "protein": 3,
+        "name": "Bread",
+        "fat": 1,
+        "grams": 29
+    },
+    {
+        "carbohydrates": 10,
+        "protein": 2,
+        "name": "Veggies",
+        "fat": 1,
+        "grams": 140
+    },
+    {
+        "carbohydrates": 20,
+        "protein": 40,
+        "name": "test1",
+        "fat": 30,
+        "grams": 100
+    },
+    {
+        "carbohydrates": 10,
+        "protein": 8,
+        "name": "test2",
+        "fat": 5,
+        "grams": 200
+    }
+]}

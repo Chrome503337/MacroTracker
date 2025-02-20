@@ -1,0 +1,23 @@
+{
+    "carbohydrates": 100,
+    "protein": 80,
+    "Today'sFoods": [
+        {
+            "carbohydrates": 75,
+            "protein": 13,
+            "name": "Spaghetti",
+            "fat": 2,
+            "grams": 100
+        },
+        {
+            "carbohydrates": 0,
+            "protein": 31,
+            "name": "Chicken Breast",
+            "fat": 4,
+            "grams": 100
+        }
+    ],
+    "fat": 20,
+    "calories": 700,
+    "day": 5
+}

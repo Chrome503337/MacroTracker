@@ -1,0 +1,30 @@
+{
+    "day": 5,
+    "calories": 500,
+    "carbohydrates": 80,
+    "fat": 10,
+    "protein": 40,
+    "Today'sFoods": [
+      {
+        "name": "Milk",
+        "grams": 244,
+        "carbohydrates": 12,
+        "fat": 5,
+        "protein": 8
+      },
+      {
+        "name": "Peanut Butter",
+        "grams": 32,
+        "carbohydrates": 8,
+        "fat": 16,
+        "protein": 7
+      },
+      {
+        "name": "Bread",
+        "grams": 29,
+        "carbohydrates": 14,
+        "fat": 1,
+        "protein": 3
+      }
+    ]
+}

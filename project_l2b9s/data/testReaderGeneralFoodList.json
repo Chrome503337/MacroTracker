@@ -1,0 +1,123 @@
+{
+    "FoodList": [
+      {
+          "name": "Spaghetti",
+          "grams": 100,
+          "carbohydrates": 75,
+          "fat": 2,
+          "protein": 13
+      },
+      {
+        "name": "White Rice",
+        "grams": 250,
+        "carbohydrates": 70,
+        "fat": 1,
+        "protein": 7
+      },
+      {
+        "name": "Banana",
+        "grams": 170,
+        "carbohydrates": 39,
+        "fat": 1,
+        "protein": 7
+      },
+      {
+        "name": "Beef",
+        "grams": 100,
+        "carbohydrates": 0,
+        "fat": 17,
+        "protein": 26
+      },
+      {
+        "name": "Chicken Breast",
+        "grams": 100,
+        "carbohydrates": 0,
+        "fat": 14,
+        "protein": 31
+      },
+      {
+        "name": "Pork",
+        "grams": 100,
+        "carbohydrates": 0,
+        "fat": 14,
+        "protein": 26
+      },
+      {
+        "name": "Lamb",
+        "grams": 85,
+        "carbohydrates": 0,
+        "fat": 18,
+        "protein": 21
+      },
+      {
+        "name": "Egg",
+        "grams": 100,
+        "carbohydrates": 1,
+        "fat": 10,
+        "protein": 13
+      },
+      {
+        "name": "Fish",
+        "grams": 170,
+        "carbohydrates": 0,
+        "fat": 5,
+        "protein": 44
+      },
+      {
+        "name": "Spaghetti",
+        "grams": 100,
+        "carbohydrates": 75,
+        "fat": 2,
+        "protein": 13
+      },
+      {
+        "name": "Salmon",
+        "grams": 227,
+        "carbohydrates": 0,
+        "fat": 28,
+        "protein": 50
+      },
+      {
+        "name": "Milk",
+        "grams": 244,
+        "carbohydrates": 12,
+        "fat": 5,
+        "protein": 8
+      },
+      {
+        "name": "Peanut Butter",
+        "grams": 32,
+        "carbohydrates": 8,
+        "fat": 16,
+        "protein": 7
+      },
+      {
+        "name": "Bread",
+        "grams": 29,
+        "carbohydrates": 14,
+        "fat": 1,
+        "protein": 3
+      },
+      {
+        "name": "Veggies",
+        "grams": 140,
+        "carbohydrates": 10,
+        "fat": 1,
+        "protein": 2
+      },
+      {
+        "name": "Tester",
+        "grams": 200,
+        "carbohydrates": 10,
+        "fat": 10,
+        "protein": 10
+      },
+      {
+        "name": "Test2",
+        "grams": 300,
+        "carbohydrates": 5,
+        "fat": 5,
+        "protein": 5
+      }
+    ]
+}

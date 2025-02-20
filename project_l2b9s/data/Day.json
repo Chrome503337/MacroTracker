@@ -1,0 +1,23 @@
+{
+    "carbohydrates": 160,
+    "protein": 80,
+    "Today'sFoods": [
+        {
+            "carbohydrates": 75,
+            "protein": 13,
+            "name": "Spaghetti",
+            "fat": 2,
+            "grams": 100
+        },
+        {
+            "carbohydrates": 0,
+            "protein": 26,
+            "name": "Pork",
+            "fat": 14,
+            "grams": 100
+        }
+    ],
+    "fat": 20,
+    "calories": 1200,
+    "day": 1
+}
